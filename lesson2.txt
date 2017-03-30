@@ -6,16 +6,35 @@ and get our project started.
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+stating area is like a bridge between changes and commit. It offers the best benefit of
+adding files one by one in the staging area that you want to commit at once.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
+
+We can make sure by adding files to staging area after we have made a logical changes 
+accordingly and then commiting at once.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+branches can be helpful in situations like where you want to your project to diverge in two
+different paths since using only commit u cannot do that.
+
 How do the diagrams help you visualize the branch structure?
+
+the diagram help me remember the parental paths of all the commits which help to keep in mind
+the branches and their respective commits
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+The result of merging two branches together is that their commits are mixed together using 
+timestamps. The result is we get a project with both the functionalities of the 2 branches.
+The diagram helps to solve any conflicts or the merging aftereffects.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+Git's automatic merging saves time and always doing merger manually will take a lot up of time.
+Git's automatic merging even allows you to manually solve conflicts without taking any self decision.
