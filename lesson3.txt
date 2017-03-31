@@ -5,3 +5,9 @@ When there are many people working on the repository and you want it to be globa
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Whenever some changes are made in the repository that are worthwile for keeping in the project only then the changes will be pulled rather
 than being automatically all the time.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+forks-They are used for github to github cloning. Its kind of a shortcut and useful when you dont have permission to clone.
+clones- They are used to copy a repository into local.
+branches- They are used to diverge from the master branch for making changes not visible on the master branch which can be kept later
+if wanted using merge.
