@@ -15,3 +15,8 @@ if wanted using merge.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Sometimes we don't want to merge remote with the local but just want to keep in different branch so that when we require it
 we could see the diff changes and merge later according to need therefore git fetch is used inpite of git pull.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Without using Git or Github we could collabrate with the old ways like creating project on own and then sending the mails to one
+another of the updates made. Previously no one focused on the area of making working together easy and thats what make it unique thought 
+its complicated and harder to learn and remember all those commands.
